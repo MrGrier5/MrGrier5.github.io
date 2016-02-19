@@ -145,6 +145,13 @@ mark {
   background: #ff0;
   color: #000;
 }
+.navbar {
+    background: #CFC291;
+}
+#bs-example-navbar-collapse-1 > ul:nth-child(1) > li.active > a , footer{
+    background: #FF712C;
+}
+
 
 /**
  * Address inconsistent and variable font size in all browsers.
